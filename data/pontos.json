@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p1",
+    "nome": "Colégio Estadual Professor Nelson Barros",
+    "descricao": "Escola Estadual",
+    "pos": [-12.890062,-38.409813]
+  },
+  {
+    "id": "p2",
+    "nome": "Biblioteca Central",
+    "descricao": "Campus de Ondina",
+    "pos": [-13.001687,-38.509062]
+  },
+  {
+    "id": "p3",
+    "nome": "Escola de Administração - Ponto Central de Coleta",
+    "descricao": "EAUFBA",
+    "pos": [-12.995563, -38.520187]
+  },
+  {
+    "id": "p4",
+    "nome": "Colegio Estadual Presidente Costa E Silva",
+    "descricao": "Escola Estadual",
+    "pos": [-12.9169037,-38.4991008]
+  }
+]
